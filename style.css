@@ -345,6 +345,9 @@ footer .footer-container .footer-content .icons svg:hover{
         flex-direction: column;
         justify-content: space-between;
     }
+    footer .footer-container .footer-content .location{
+        width: 100%;
+    }
     footer .footer-container .footer-content .contact-us{
         margin-top: 30px;
     }
